@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmsForCSharp", "AlgorithmsForCSharp\AlgorithmsForCSharp.csproj", "{B5E99058-28EB-4439-BD0B-4EBC4138D039}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmsForCSharpTest", "AlgorithmsForCSharpTest\AlgorithmsForCSharpTest.csproj", "{35E33719-8082-4F68-90B2-C8CE06D160A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5E99058-28EB-4439-BD0B-4EBC4138D039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E99058-28EB-4439-BD0B-4EBC4138D039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E99058-28EB-4439-BD0B-4EBC4138D039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E99058-28EB-4439-BD0B-4EBC4138D039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E33719-8082-4F68-90B2-C8CE06D160A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E33719-8082-4F68-90B2-C8CE06D160A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E33719-8082-4F68-90B2-C8CE06D160A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E33719-8082-4F68-90B2-C8CE06D160A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
